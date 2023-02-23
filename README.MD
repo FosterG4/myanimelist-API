@@ -7,4 +7,4 @@ how to get data :
 sample:
 curl http://localhost:3000/anime/48417 (or open with browser)
 
-https://raw.githubusercontent.com/FosterG4/myanimelist-API/master/Screenshot%202023-02-23%20144724.png?token=GHSAT0AAAAAAB6VUYSF3DOK2FFPXY7SMJ22Y7XDMDQ
+![Screenshot 2023-02-23 144724](https://user-images.githubusercontent.com/30888372/220849619-4a6a024c-42ca-4a58-97be-bfd7ad45fd52.png)
